@@ -2,9 +2,6 @@ class Solution {
     public double findMaxAverage(int[] nums, int k) {
         double[] prefix = new double[nums.length-k+1];
         double sum =0;
-        if(nums.length==1){
-            return (double)nums[0];
-        }
         for (int i= 0 ;i<k;i++){
             sum+=nums[i];
         }
