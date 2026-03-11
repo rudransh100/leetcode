@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rudransh100/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rudransh100/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rudransh100/leetcode/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/rudransh100/leetcode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/rudransh100/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -25,5 +26,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rudransh100/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rudransh100/leetcode/tree/master/0018-4sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rudransh100/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
