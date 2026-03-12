@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/rudransh100/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rudransh100/leetcode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/rudransh100/leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/rudransh100/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/rudransh100/leetcode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/rudransh100/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/rudransh100/leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/rudransh100/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/rudransh100/leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
