@@ -5,13 +5,13 @@ class Solution {
         int curMax = 0;
         int min = nums[0];
         int curMin = 0;
-        for (int num : nums) {
-            curMax = Math.max(curMax + num, num);
+        for (int i=0;i<nums.length;i++) {
+            curMax = Math.max(curMax + nums[i], nums[i]);
             max = Math.max(max, curMax);
-            curMin = Math.min(curMin + num, num);
+            curMin = Math.min(curMin + nums[i], nums[i]);
             min = Math.min(min, curMin);
 
-            total += num;
+            total += nums[i];
         }
         if (max < 0) {
             return max;
