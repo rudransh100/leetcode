@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/rudransh100/leetcode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/rudransh100/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rudransh100/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/rudransh100/leetcode/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/rudransh100/leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/rudransh100/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/rudransh100/leetcode/tree/master/0643-maximum-average-subarray-i) |
