@@ -14,6 +14,7 @@
 | [0435-non-overlapping-intervals](https://github.com/rudransh100/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/rudransh100/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rudransh100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1089-duplicate-zeros](https://github.com/rudransh100/leetcode/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/rudransh100/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rudransh100/leetcode/tree/master/0018-4sum) |
+| [1089-duplicate-zeros](https://github.com/rudransh100/leetcode/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
 | ------- |
