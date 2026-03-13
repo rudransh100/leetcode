@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/rudransh100/leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/rudransh100/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/rudransh100/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0766-toeplitz-matrix](https://github.com/rudransh100/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rudransh100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1089-duplicate-zeros](https://github.com/rudransh100/leetcode/tree/master/1089-duplicate-zeros) |
 ## Hash Table
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/rudransh100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/rudransh100/leetcode/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
