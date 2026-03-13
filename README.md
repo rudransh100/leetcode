@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rudransh100/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rudransh100/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rudransh100/leetcode/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/rudransh100/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rudransh100/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rudransh100/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rudransh100/leetcode/tree/master/0057-insert-interval) |
@@ -73,5 +74,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rudransh100/leetcode/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/rudransh100/leetcode/tree/master/0766-toeplitz-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/rudransh100/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
