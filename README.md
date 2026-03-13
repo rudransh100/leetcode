@@ -80,4 +80,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rudransh100/leetcode/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/rudransh100/leetcode/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/rudransh100/leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
