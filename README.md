@@ -85,6 +85,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rudransh100/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0707-design-linked-list](https://github.com/rudransh100/leetcode/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rudransh100/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
