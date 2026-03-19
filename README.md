@@ -89,10 +89,12 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rudransh100/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/rudransh100/leetcode/tree/master/0048-rotate-image) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rudransh100/leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rudransh100/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rudransh100/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0707-design-linked-list](https://github.com/rudransh100/leetcode/tree/master/0707-design-linked-list) |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/rudransh100/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rudransh100/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
