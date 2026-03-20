@@ -48,6 +48,7 @@
 | [0011-container-with-most-water](https://github.com/rudransh100/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rudransh100/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rudransh100/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
 | [1089-duplicate-zeros](https://github.com/rudransh100/leetcode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/rudransh100/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rudransh100/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -63,6 +64,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudransh100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/rudransh100/leetcode/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudransh100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudransh100/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/rudransh100/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
@@ -124,5 +126,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rudransh100/leetcode/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudransh100/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
