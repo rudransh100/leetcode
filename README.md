@@ -17,6 +17,7 @@
 | [0496-next-greater-element-i](https://github.com/rudransh100/leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/rudransh100/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rudransh100/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/rudransh100/leetcode/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/rudransh100/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rudransh100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudransh100/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rudransh100/leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/rudransh100/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/rudransh100/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudransh100/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
@@ -139,4 +141,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rudransh100/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/rudransh100/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
