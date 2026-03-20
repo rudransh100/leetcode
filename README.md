@@ -84,6 +84,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/rudransh100/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rudransh100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -111,6 +112,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/rudransh100/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/rudransh100/leetcode/tree/master/0707-design-linked-list) |
 ## Prefix Sum
 |  |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rudransh100/leetcode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/rudransh100/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/rudransh100/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rudransh100/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
