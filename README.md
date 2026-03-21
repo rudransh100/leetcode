@@ -23,6 +23,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/rudransh100/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/rudransh100/leetcode/tree/master/1089-duplicate-zeros) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rudransh100/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rudransh100/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/rudransh100/leetcode/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/rudransh100/leetcode/tree/master/0766-toeplitz-matrix) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rudransh100/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rudransh100/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudransh100/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rudransh100/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
