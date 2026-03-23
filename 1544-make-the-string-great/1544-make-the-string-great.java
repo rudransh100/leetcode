@@ -5,7 +5,7 @@ class Solution {
             char curr = s.charAt(i);
             if (sb.length() > 0) {
                 char last = sb.charAt(sb.length() - 1);
-                if (curr != last && Character.toLowerCase(curr) == Character.toLowerCase(last)) {
+                if (Math.abs(curr-last) == 32) {
                     sb.deleteCharAt(sb.length() - 1);
                     continue;
                 }
