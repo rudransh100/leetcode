@@ -10,10 +10,8 @@ class Solution {
                     sb.deleteCharAt(sb.length()-1);
                 }
             }
-
         }
         return sb.toString();
-
     }
     public boolean backspaceCompare(String s, String t) {
         return normalizeString(s).equals(normalizeString(t));
