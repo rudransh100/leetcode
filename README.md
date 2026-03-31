@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/rudransh100/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rudransh100/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rudransh100/leetcode/tree/master/0057-insert-interval) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rudransh100/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/rudransh100/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rudransh100/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/rudransh100/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rudransh100/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/rudransh100/leetcode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rudransh100/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rudransh100/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rudransh100/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/rudransh100/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rudransh100/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/rudransh100/leetcode/tree/master/0496-next-greater-element-i) |
