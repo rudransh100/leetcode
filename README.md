@@ -25,6 +25,7 @@
 | [1089-duplicate-zeros](https://github.com/rudransh100/leetcode/tree/master/1089-duplicate-zeros) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rudransh100/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rudransh100/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rudransh100/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/rudransh100/leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rudransh100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rudransh100/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rudransh100/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Monotonic Stack
 |  |
 | ------- |
