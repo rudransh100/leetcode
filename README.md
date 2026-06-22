@@ -35,6 +35,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/rudransh100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/rudransh100/leetcode/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rudransh100/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1189-maximum-number-of-balloons](https://github.com/rudransh100/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/rudransh100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudransh100/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/rudransh100/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1544-make-the-string-great](https://github.com/rudransh100/leetcode/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/rudransh100/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/rudransh100/leetcode/tree/master/0547-number-of-provinces) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/rudransh100/leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
