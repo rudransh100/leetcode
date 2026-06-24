@@ -90,6 +90,7 @@
 | [0053-maximum-subarray](https://github.com/rudransh100/leetcode/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/rudransh100/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rudransh100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/rudransh100/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Queue
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0002-add-two-numbers](https://github.com/rudransh100/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/rudransh100/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rudransh100/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/rudransh100/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
