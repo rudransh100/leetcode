@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/rudransh100/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rudransh100/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rudransh100/leetcode/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/rudransh100/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rudransh100/leetcode/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rudransh100/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/rudransh100/leetcode/tree/master/0216-combination-sum-iii) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudransh100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/rudransh100/leetcode/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/rudransh100/leetcode/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudransh100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudransh100/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rudransh100/leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/rudransh100/leetcode/tree/master/0079-word-search) |
 | [0766-toeplitz-matrix](https://github.com/rudransh100/leetcode/tree/master/0766-toeplitz-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rudransh100/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rudransh100/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -211,6 +214,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rudransh100/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rudransh100/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudransh100/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rudransh100/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -273,6 +277,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/rudransh100/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rudransh100/leetcode/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/rudransh100/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rudransh100/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/rudransh100/leetcode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
