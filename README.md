@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rudransh100/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rudransh100/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rudransh100/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rudransh100/leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/rudransh100/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rudransh100/leetcode/tree/master/0040-combination-sum-ii) |
@@ -62,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rudransh100/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rudransh100/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/rudransh100/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/rudransh100/leetcode/tree/master/0217-contains-duplicate) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rudransh100/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rudransh100/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rudransh100/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rudransh100/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
