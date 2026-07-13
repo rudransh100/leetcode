@@ -300,4 +300,8 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rudransh100/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/rudransh100/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
