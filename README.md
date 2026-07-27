@@ -19,6 +19,7 @@
 | [0090-subsets-ii](https://github.com/rudransh100/leetcode/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rudransh100/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rudransh100/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/rudransh100/leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/rudransh100/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/rudransh100/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rudransh100/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/rudransh100/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rudransh100/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/rudransh100/leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/rudransh100/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rudransh100/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rudransh100/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
