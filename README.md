@@ -42,6 +42,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rudransh100/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rudransh100/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rudransh100/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rudransh100/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rudransh100/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/rudransh100/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rudransh100/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -60,6 +61,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/rudransh100/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rudransh100/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rudransh100/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rudransh100/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rudransh100/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rudransh100/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
@@ -83,6 +85,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/rudransh100/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudransh100/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rudransh100/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rudransh100/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudransh100/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
