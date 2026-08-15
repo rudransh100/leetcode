@@ -46,6 +46,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rudransh100/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rudransh100/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/rudransh100/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rudransh100/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rudransh100/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rudransh100/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudransh100/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -327,6 +328,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/rudransh100/leetcode/tree/master/0090-subsets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rudransh100/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
