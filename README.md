@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/rudransh100/leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/rudransh100/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rudransh100/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/rudransh100/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rudransh100/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/rudransh100/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rudransh100/leetcode/tree/master/0053-maximum-subarray) |
@@ -103,6 +104,7 @@
 | [0015-3sum](https://github.com/rudransh100/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rudransh100/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rudransh100/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/rudransh100/leetcode/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
 | [1089-duplicate-zeros](https://github.com/rudransh100/leetcode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/rudransh100/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -144,6 +146,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rudransh100/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rudransh100/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rudransh100/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rudransh100/leetcode/tree/master/0198-house-robber) |
@@ -222,6 +225,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rudransh100/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rudransh100/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rudransh100/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rudransh100/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rudransh100/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -246,6 +250,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rudransh100/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rudransh100/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rudransh100/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rudransh100/leetcode/tree/master/0739-daily-temperatures) |
