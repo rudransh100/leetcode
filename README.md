@@ -26,6 +26,7 @@
 | [0435-non-overlapping-intervals](https://github.com/rudransh100/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/rudransh100/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rudransh100/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rudransh100/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/rudransh100/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudransh100/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rudransh100/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -228,6 +229,7 @@
 | [0225-implement-stack-using-queues](https://github.com/rudransh100/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rudransh100/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/rudransh100/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rudransh100/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/rudransh100/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rudransh100/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rudransh100/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rudransh100/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rudransh100/leetcode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
