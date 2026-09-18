@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rudransh100/leetcode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/rudransh100/leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/rudransh100/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/rudransh100/leetcode/tree/master/0605-can-place-flowers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rudransh100/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -133,6 +134,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rudransh100/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rudransh100/leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/rudransh100/leetcode/tree/master/0079-word-search) |
+| [0402-remove-k-digits](https://github.com/rudransh100/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudransh100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudransh100/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -246,6 +248,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/rudransh100/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/rudransh100/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rudransh100/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/rudransh100/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/rudransh100/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rudransh100/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/rudransh100/leetcode/tree/master/0735-asteroid-collision) |
@@ -267,6 +270,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rudransh100/leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/rudransh100/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/rudransh100/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rudransh100/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rudransh100/leetcode/tree/master/0739-daily-temperatures) |
