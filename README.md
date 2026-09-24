@@ -52,6 +52,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rudransh100/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rudransh100/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rudransh100/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rudransh100/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/rudransh100/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rudransh100/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rudransh100/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -194,6 +195,7 @@
 | [0836-rectangle-overlap](https://github.com/rudransh100/leetcode/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rudransh100/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/rudransh100/leetcode/tree/master/2029-stone-game-ix) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rudransh100/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rudransh100/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rudransh100/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rudransh100/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
