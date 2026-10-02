@@ -134,6 +134,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudransh100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rudransh100/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rudransh100/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rudransh100/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/rudransh100/leetcode/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/rudransh100/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudransh100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -157,6 +158,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rudransh100/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rudransh100/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rudransh100/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rudransh100/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -357,6 +359,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rudransh100/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/rudransh100/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rudransh100/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rudransh100/leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/rudransh100/leetcode/tree/master/0051-n-queens) |
@@ -408,4 +411,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rudransh100/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rudransh100/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
