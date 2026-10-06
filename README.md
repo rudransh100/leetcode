@@ -126,6 +126,7 @@
 | [0402-remove-k-digits](https://github.com/rudransh100/leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/rudransh100/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/rudransh100/leetcode/tree/master/0605-can-place-flowers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudransh100/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rudransh100/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/rudransh100/leetcode/tree/master/2029-stone-game-ix) |
 ## String
@@ -140,6 +141,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/rudransh100/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/rudransh100/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudransh100/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudransh100/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/rudransh100/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rudransh100/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -261,6 +263,7 @@
 | [0844-backspace-string-compare](https://github.com/rudransh100/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/rudransh100/leetcode/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/rudransh100/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudransh100/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudransh100/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/rudransh100/leetcode/tree/master/1544-make-the-string-great) |
 | [2104-sum-of-subarray-ranges](https://github.com/rudransh100/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -415,4 +418,5 @@
 | [0020-valid-parentheses](https://github.com/rudransh100/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rudransh100/leetcode/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/rudransh100/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudransh100/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
