@@ -151,6 +151,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rudransh100/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rudransh100/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rudransh100/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/rudransh100/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
